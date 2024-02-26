@@ -7,5 +7,5 @@ Ghost Admin Finder is designed to quickly and simply locate admin login panels o
 Copy and paste the following commands in Termux to install the required dependencies and clone the repository:
 
 ```bash
-pkg update -y && pkg upgrade -y && apt update -y && apt upgrade -y && pkg install bash curl git -y && git clone https://github.com/X-Shir0/GhostAdminFinder
+pkg update -y && pkg upgrade -y && apt update -y && apt upgrade -y && pkg install bash curl git -y && git clone https://github.com/xshir00xgod/GhostAdminFinder
 cd GhostAdminFinder && chmod +x ghost.sh && ./ghost.sh domainname.com
